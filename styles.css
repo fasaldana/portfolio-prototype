@@ -1,5 +1,6 @@
 .navbar{
-    background-color: #1C1A19;
+    background-color: #3E3C3C;
+    padding: 12px 8%;
 }
 .navbar .navbar-brand ,.navbar .nav-link{
     color: #fff;
