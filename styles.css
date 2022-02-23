@@ -1,7 +1,7 @@
-.navbar{
-    background-color: #3E3C3C;
-    padding: 12px 8%;
+.navbar {
+  background-color: #3e3c3c;
 }
-.navbar .navbar-brand ,.navbar .nav-link{
-    color: #fff;
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #fff;
 }
