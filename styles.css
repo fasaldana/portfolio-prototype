@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@400;600;700&display=swap");
+* {
+  font-family: "Inter", sans-serif;
+}
+.navbar {
+  background-color: #3e3c3c;
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #fff;
+}
+.card {
+  background-image: url("images/project.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Crete Round", serif;
+}
+
+h1 {
+  color: #f55800;
+}
